@@ -5,7 +5,9 @@
 
 ’m a Front End Web developer and I am Passionate about making websites with 100% client satisfaction. I like to learning and sharing my knowledge with others.I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years. I pride myself on doing quality work and maintaining excellent communication.
 
-Skills: 
+Skills:
+✅Tailwind CSS / Bootstrap
+✅React
 ✅ JavaScript
 ✅HTML5 / CSS3 
 ✅ Photoshop / Illustrator
